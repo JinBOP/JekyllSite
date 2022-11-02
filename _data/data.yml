@@ -71,13 +71,14 @@ education:
         details: |
           
 experiences:
-    title:
-    info:
-      - role:
+    title: The Most Wonderfullest SCP Within The Foundation
+    info: "The Tickle Monster"
+      - role: Item  SCP-999
         time:
-        company:
+        company: Object Class Adorable
         details: |
-          
+          Special Containment Procedures
+          Description 
       - role:
         time:
         company:
