@@ -10,7 +10,7 @@ url: 'https://jinbop.github.io/JekyllSite/'
 
 description: My SCP-999 Fan Document
 # Style will be applied only after restarting the build or serve. Just choose one of the options.
-theme_skin: red #
+theme_skin: berry #
 chrome_mobile_color: #use hex colors (ex:#1976d2) or leave empty if you don't want a color for chrome mobile searchbar
 
 # Tracker
