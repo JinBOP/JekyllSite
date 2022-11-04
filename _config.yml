@@ -2,7 +2,7 @@
 
 # Site Settings
 title: SCP-999 Fan Document
-url: 'https://jinbop.github.io/JekyllSite/'
+# url: 'https://jinbop.github.io/JekyllSite/'
 
 #change it according to your repository name
 # disabling since we are using a custom domain
