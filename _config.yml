@@ -6,7 +6,7 @@ url: 'https://jinbop.github.io/JekyllSite/'
 
 #change it according to your repository name
 # disabling since we are using a custom domain
-# baseurl: '/online-cv' 
+#baseurl: '/online-cv' 
 
 description: My SCP-999 Fan Document
 # Style will be applied only after restarting the build or serve. Just choose one of the options.
