@@ -1,16 +1,16 @@
 #Update all the sections by editing the data.yml file inside _data folder.
 
 # Site Settings
-title: SCP-999 Fan Document
-url: 'https://jinbop.github.io/JekyllSite/'
+# title: SCP-999 Fan Document
+# url: 'https://jinbop.github.io/JekyllSite/'
 
 #change it according to your repository name
 # disabling since we are using a custom domain
 #baseurl: '/online-cv' 
 
-description: My SCP-999 Fan Document
+# description: My SCP-999 Fan Document
 # Style will be applied only after restarting the build or serve. Just choose one of the options.
-theme_skin: berry #
+# theme_skin: berry #
 chrome_mobile_color: #use hex colors (ex:#1976d2) or leave empty if you don't want a color for chrome mobile searchbar
 
 # Tracker
