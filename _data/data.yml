@@ -109,28 +109,28 @@ experiences:
         time:
         company:
         details: |
-<table>
-  <tr>
-    <th>Food Item Given</th>
-    <th>Reaction</th>
-    <th>Conclusion</th>
-  </tr>
-  <tr>
-    <td>M&M's</td>
-    <td>Immense Glee</td>
-    <td>Feed to the little guy regularly</td>
-  </tr>
-  <tr>
-    <td>Necco Wafers</td>
-    <td>Great Joy</td>
-    <td>Feed to the little guy regularly</td>
-  </tr>
-  <tr>
-    <td>Cola</td>
-    <td>literally bounced off the walls for half an hour and was sickly for the rest of the day</td>
-    <td>Do NOT feed the little guy any more soft drinks!</td>
-  </tr>
-</table>
+# <table>
+#   <tr>
+#     <th>Food Item Given</th>
+#     <th>Reaction</th>
+#     <th>Conclusion</th>
+#   </tr>
+#   <tr>
+#     <td>M&M's</td>
+#     <td>Immense Glee</td>
+#     <td>Feed to the little guy regularly</td>
+#   </tr>
+#   <tr>
+#     <td>Necco Wafers</td>
+#     <td>Great Joy</td>
+#     <td>Feed to the little guy regularly</td>
+#   </tr>
+#   <tr>
+#     <td>Cola</td>
+#     <td>literally bounced off the walls for half an hour and was sickly for the rest of the day</td>
+#     <td>Do NOT feed the little guy any more soft drinks!</td>
+#   </tr>
+# </table>
 projects:
     title:
     intro: >
